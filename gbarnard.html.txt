@@ -3,5 +3,7 @@
 <body>
 Hello World!
 Grant Barnard
+I am enjoying this assignment and class.
+Mike is a great professor
 </body>
 </html>
